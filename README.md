@@ -1,22 +1,22 @@
 ### 👋 Hi, I'm Muhammad Zuama AL Amin!
 
-Fresh graduate dari Program Studi Teknologi Informasi Universitas Jember.  
-Saya memiliki minat dalam **pengembangan aplikasi Android** dan **kecerdasan buatan**, terutama di bidang **Natural Language Processing (NLP)**.
+I'm a fresh graduate in Information Technology from the University of Jember, Indonesia.  
+I have a strong passion for **Android development** and **Artificial Intelligence**, especially in the field of **Natural Language Processing (NLP)**.
 
 ---
 
-### 💼 Fokus Saat Ini
-- 🔬 Penelitian di bidang Machine Learning dan NLP
-- 📱 Pengembangan aplikasi Android berbasis AI
-- 📖 Belajar mendalam tentang model transformer dan deep learning
+### 💼 Current Focus
+- 🔬 Research in Machine Learning and NLP
+- 📱 Building intelligent Android applications
+- 📖 Deepening knowledge in transformer-based models and deep learning techniques
 
 ---
 
-### 🚀 Proyek Unggulan
-1. 🔎 **[FindFe](https://github.com/zuamaamin/findfe)** – Aplikasi pencarian lokasi berbasis Flutter
-2. 📰 **Deteksi Hoaks Berbasis Android** – Sistem klasifikasi berita menggunakan 1D-CNN + BERT
-3. ☁️ **Prediksi Cuaca Android** – Aplikasi prediksi cuaca berbasis LSTM
-4. 🧠 **Model Deep Learning untuk Klasifikasi dan Prediksi** – Eksperimen NLP & CV dengan TensorFlow dan PyTorch
+### 🚀 Highlight Projects
+1. 🔎 **[FindFe]** – A location-based search app built with Flutter
+2. 📰 **Fake News Detection App** – Android app that classifies news using 1D-CNN and BERT
+3. ☁️ **Weather Forecasting App** – Android app for weather prediction using LSTM
+4. 🧠 **Deep Learning Models for Prediction and Classification** – Custom experiments in NLP and computer vision
 
 ---
 
@@ -35,6 +35,6 @@ Saya memiliki minat dalam **pengembangan aplikasi Android** dan **kecerdasan bua
 
 ---
 
-### 📫 Kontak
-- ✉️ Email: zuama@example.com
-- 💼 LinkedIn: [linkedin.com/in/zuamaamin](https://linkedin.com/in/zuamaamin)
+### 📫 Contact Me
+- ✉️ Email: muhammadzuama19gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/muhammad-zuama-al-amin-187472221](https://www.linkedin.com/in/muhammad-zuama-al-amin-187472221/)
