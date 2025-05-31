@@ -29,6 +29,8 @@ I have a strong passion for **Android development** and **Artificial Intelligenc
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ---
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhammadzuamaalamin&theme=react-dark)
+
 
 ### 📊 GitHub Stats
 ![Zuama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuamaamin&show_icons=true&theme=tokyonight)
