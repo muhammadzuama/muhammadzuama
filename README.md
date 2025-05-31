@@ -31,7 +31,7 @@ I have a strong passion for **Android development** and **Artificial Intelligenc
 ---
 
 ### 📊 GitHub Stats
-![Zuama's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuamaamin&show_icons=true&theme=tokyonight)
+![Zuama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzuama&show_icons=true&theme=tokyonight)
 
 ---
 
