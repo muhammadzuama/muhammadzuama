@@ -13,7 +13,7 @@ I have a strong passion for **Android development** and **Artificial Intelligenc
 ---
 
 ### 🚀 Highlight Projects
-1. 🔎 **[FindFe]** – A location-based search app built with Flutter
+1. 🔎 **FindFe** – Android App that used for search coffee distributor built with Flutter
 2. 📰 **Fake News Detection App** – Android app that classifies news using 1D-CNN and BERT
 3. ☁️ **Weather Forecasting App** – Android app for weather prediction using LSTM
 4. 🧠 **Deep Learning Models for Prediction and Classification** – Custom experiments in NLP and computer vision
