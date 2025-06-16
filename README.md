@@ -30,11 +30,6 @@ I have a strong passion for **Android development** and **Artificial Intelligenc
 
 ---
 
-### 📊 GitHub Stats
-![Zuama's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadzuama&show_icons=true&theme=tokyonight)
-
----
-
 ### 📫 Contact Me
 - ✉️ Email: muhammadzuama19gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/muhammad-zuama-al-amin-187472221](https://www.linkedin.com/in/muhammad-zuama-al-amin-187472221/)
