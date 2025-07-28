@@ -37,9 +37,13 @@
   <img src="https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow" />
   <img src="https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch" />
   <img src="https://img.shields.io/badge/-Scikit_Learn-333?style=flat&logo=scikit-learn" />
+  <img src="https://img.shields.io/badge/-Streamlit-333?style=flat&logo=streamlit" />
+  <img src="https://img.shields.io/badge/-Flask-333?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/-Django-333?style=flat&logo=django" />
   <img src="https://img.shields.io/badge/-Flutter-333?style=flat&logo=flutter" />
   <img src="https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript" />
 </p>
+
 
 ---
 
