@@ -34,7 +34,7 @@
 | Project | Description |
 |---------|-------------|
 | 🔎 **FindFe** | Flutter app to search for coffee distributors |
-| 📰 **Fake News Detection App** | Android app using **1D-CNN** and **BERT** to detect fake news |
+| 📰 **Fake News Detection App** | Android app using **1D-CNN** model to detect fake news |
 | ☁️ **Spam Detection Chat App** | Real-time spam detection with chat UI |
 | 🧠 **Deep Learning Experiments** | NLP & transformer-based model experiments |
 
