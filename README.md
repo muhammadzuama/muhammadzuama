@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Muhammad Zuama AL Amin!</h1>
+<h1 align="center">👋 Hi, I'm Muhammad Zuama Al Amin!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Android+Developer;AI+%26+NLP+Researcher;Lifelong+Learner" alt="Typing SVG" />
