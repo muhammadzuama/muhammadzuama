@@ -16,7 +16,7 @@
 
 - 🎓 Fresh graduate in Information Technology from **University of Jember, Indonesia**
 - 💡 Passionate about **Android Development** & **AI/NLP**
-- 🤖 Exploring cutting-edge **Machine Learning** & **Deep Learning** models
+- 🤖 Exploring cutting-edge **Machine Learning** & **Deep Learning** especialy in NLP models
 - 🌏 Lifelong learner and enthusiast for building impactful tech
 
 ---
