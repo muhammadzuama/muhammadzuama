@@ -1,23 +1,47 @@
-<h1 align="center">👋 Hi, I'm Muhammad Zuama Al Amin!</h1>
+<h1 align="center">🚀 Muhammad Zuama Al Amin</h1>
+<h3 align="center">Android Developer | AI/NLP Researcher | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Android+Developer;AI+%26+NLP+Researcher;Lifelong+Learner" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=Crafting+innovative+Android+solutions;Building+intelligent+apps+with+AI;Exploring+cutting-edge+NLP+techniques;Open-source+contributor+%26+learner" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:muhammadzuama19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-zuama-al-amin-187472221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://huggingface.co/mzuama"><img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-zuama-al-amin-187472221/"><img src="https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://huggingface.co/mzuama"><img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+  <a href="https://github.com/muhammadzuama"><img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-🌱 **About Me**
+## 🧑‍💻 About Me
 
-- 🎓 Fresh graduate in Information Technology from **University of Jember, Indonesia**
-- 💡 Passionate about **Android Development** & **AI/NLP**
-- 🤖 Exploring cutting-edge **Machine Learning** & **Deep Learning** especialy in NLP models
-- 🌏 Lifelong learner and enthusiast for building impactful tech
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadzuama&show_icons=true&theme=radical" width="40%">
+
+- 🎓 Fresh IT graduate from University of Jember, Indonesia
+- 💻 Passionate about **Android Development** with Kotlin/Java
+- 🧠 Deep interest in **Machine Learning** and **Natural Language Processing**
+- 🔭 Currently exploring transformer architectures and LLMs
+- 🌱 Constantly learning and expanding my tech stack
+- ⚡ Fun fact: I enjoy reverse engineering apps to understand their architecture
+
+---
+
+## 🛠️ Technical Skills
+
+### 📱 Mobile Development
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🤖 AI/ML
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 🛠️ Other Tools
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -52,7 +76,6 @@
   <img src="https://img.shields.io/badge/Flutter-333?style=flat&logo=flutter" />
   <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/Android-333?style=flat&logo=android" />
-  <img src="https://img.shields.io/badge/Kotlin-333?style=flat&logo=kotlin" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
@@ -62,7 +85,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadzuama&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzuama&layout=compact&theme=tokyonight" />
 </p>
@@ -77,5 +99,6 @@
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muhammadzuama&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=muhammadzuama&label=Profile+Views&color=22C55E&style=flat" alt="profile views" />
+  <a href="https://github.com/muhammadzuama?tab=followers"><img src="https://img.shields.io/github/followers/muhammadzuama?label=Followers&style=social" alt="GitHub followers"></a>
 </p>
