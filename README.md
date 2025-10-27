@@ -58,17 +58,6 @@
   <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadzuama&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzuama&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🤝 Let's Connect!
 
