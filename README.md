@@ -14,10 +14,6 @@
 ---
 
 ## 🧑‍💻 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=muhammadzuama&show_icons=true&theme=radical" width="40%">
-
-- 🎓 Fresh IT graduate from University of Jember, Indonesia
 - 💻 Passionate about **Android Development** with Kotlin/Java
 - 🧠 Deep interest in **Machine Learning** and **Natural Language Processing**
 - 🔭 Currently exploring transformer architectures and LLMs
@@ -30,18 +26,6 @@
 - 📱 Creating intelligent & feature-rich **Android apps**
 - 📚 Diving deep into **transformer models** & AI architectures
 
----
-
-## 🚀 Highlight Projects
-
-| Project | Description |
-|---------|-------------|
-| 🔎 **FindFe** | Flutter app to search for coffee distributors |
-| 📰 **Fake News Detection App** | Android app using **1D-CNN** model to detect fake news |
-| ☁️ **Spam Detection Chat App** | Real-time spam detection with chat UI |
-| 🧠 **Deep Learning Experiments** | NLP & transformer-based model experiments |
-
----
 
 ## 🛠️ Tech Stack
 
